@@ -1,4 +1,4 @@
-<img width="1916" height="839" alt="Screenshot 2026-04-15 192830" src="https://github.com/user-attachments/assets/cbc2252e-aa34-4c34-a60b-b69109590773" /># 🔬 CellScope AI: Blood Cell Classifier
+ 🔬 CellScope AI: Blood Cell Classifier
 
 CellScope AI is a state-of-the-art medical imaging platform designed to automate the classification of blood cells using Deep Learning. It specializes in the **5-part differential** blood count, providing clinicians and researchers with instant predictions coupled with **Explainable AI (XAI)** to ensure transparency in model decision-making.
 
@@ -13,6 +13,10 @@ CellScope AI is a state-of-the-art medical imaging platform designed to automate
   - **SHAP**: SHapley Value-based contribution heatmaps.
 - **Multiple Model Support**: Toggle between specialized architectures like **ResNet50** and **VGG16**.
 - **Modern Web Interface**: A sleek, responsive dashboard built with Next.js 15 and Tailwind CSS.
+
+<img width="1916" height="839" alt="Screenshot 2026-04-15 192830" src="https://github.com/user-attachments/assets/cbc2252e-aa34-4c34-a60b-b69109590773" />
+<img width="1894" height="778" alt="Screenshot 2026-04-15 192840" src="https://github.com/user-attachments/assets/d9fc7a57-e93d-4b9e-8481-007659661d2e" />
+<img width="1884" height="890" alt="Screenshot 2026-04-15 192820" src="https://github.com/user-attachments/assets/440a0567-ff9e-4b71-b9ad-6b0d95e1f7dc" />
 
 
 
