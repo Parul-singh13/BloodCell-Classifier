@@ -15,8 +15,10 @@ CellScope AI is a state-of-the-art medical imaging platform designed to automate
 - **Modern Web Interface**: A sleek, responsive dashboard built with Next.js 15 and Tailwind CSS.
 
 <img width="1916" height="839" alt="Screenshot 2026-04-15 192830" src="https://github.com/user-attachments/assets/cbc2252e-aa34-4c34-a60b-b69109590773" />
-<img width="1894" height="778" alt="Screenshot 2026-04-15 192840" src="https://github.com/user-attachments/assets/d9fc7a57-e93d-4b9e-8481-007659661d2e" />
-<img width="1884" height="890" alt="Screenshot 2026-04-15 192820" src="https://github.com/user-attachments/assets/440a0567-ff9e-4b71-b9ad-6b0d95e1f7dc" />
+<img width="1899" height="867" alt="Screenshot 2026-04-23 010746" src="https://github.com/user-attachments/assets/8dc7a75d-b6f3-467b-a00f-ea3d5b1546c6" />
+<img width="1906" height="861" alt="Screenshot 2026-04-23 010758" src="https://github.com/user-attachments/assets/640b12e1-bab9-424c-a7a6-d52bbe27fec9" />
+
+
 
 
 
